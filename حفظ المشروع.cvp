@@ -1,0 +1,22 @@
+{
+  "image1": "C:/Users/TRK/Desktop/ChangeVision2026_ANALYSIS_ONLY/imaggg/20250706--Bosaso.tif",
+  "image2": "C:/Users/TRK/Desktop/ChangeVision2026_ANALYSIS_ONLY/imaggg/20250808--Bosaso.tif",
+  "method": "ROBUST FINAL",
+  "threshold": 35,
+  "min_area": 100,
+  "kernel": 3,
+  "edge_tolerance": 2,
+  "accept_confidence": 60,
+  "review_confidence": 45,
+  "merge_distance": 12,
+  "opacity": 50,
+  "aligned": true,
+  "preparation": {
+    "originals": [
+      "C:\\Users\\TRK\\Desktop\\ChangeVision2026_ANALYSIS_ONLY\\imaggg\\20250706--Bosaso.tif",
+      "C:\\Users\\TRK\\Desktop\\ChangeVision2026_ANALYSIS_ONLY\\imaggg\\20250808--Bosaso.tif"
+    ],
+    "declarations": {},
+    "analysis_mode": null
+  }
+}
